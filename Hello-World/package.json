@@ -1,0 +1,14 @@
+{
+  "name": "Hello-World",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethers": "^5.6.4",
+    "hardhat": "^2.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
